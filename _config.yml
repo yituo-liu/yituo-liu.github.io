@@ -22,8 +22,8 @@ resume: https://google.com
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
 avatar: ./assets/img/avatar.png
-favicon: ./assets/img/favicon-caltech.png
-favicon_dark: ./assets/img/favicon-caltech.png
+# favicon: ./assets/img/favicon-caltech.png
+# favicon_dark: ./assets/img/favicon-caltech.png
 
 # The following files will be removed from the generated website.
 exclude:
