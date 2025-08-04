@@ -1,11 +1,8 @@
 ---
 layout: normal
-title: News
+title: People
 ---
 
-<div class="infoblock">
-    <div class="blockcontent">
-    <p>Test</p>
-</div></div>
+
 
 
