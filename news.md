@@ -1,6 +1,6 @@
 ---
 layout: normal
-title: News
+title: NEWS
 ---
 
 <div class="infoblock">
