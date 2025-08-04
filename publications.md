@@ -13,7 +13,7 @@ title: Publications
   <br>
   **J. Wang\***, B. Liang, M. Dong, G. Boudreau, and A. Afana
   <br>
-  IEEE Transactions on Networkingn. (__TON__).
+  IEEE Transactions on Networkingn. (***TON***).
   <br>
   [[PDF](https://arxiv.org/pdf/2002.10211.pdf)]
 
