@@ -10,12 +10,12 @@ title: Publications
 
 ## Journal Articles
 - **Age-of-information minimization with weight limits for semi-asynchronous online distributed optimization**
-<br>
-**J. Wang\***, B. Liang, M. Dong, G. Boudreau, and A. Afana
-<br>
-IEEE Transactions on Networkingn. __TON__.
-<br>
-[[PDF](https://arxiv.org/pdf/2002.10211.pdf)]
+  <br>
+  **J. Wang\***, B. Liang, M. Dong, G. Boudreau, and A. Afana
+  <br>
+  IEEE Transactions on Networkingn. __TON__.
+  <br>
+  [[PDF](https://arxiv.org/pdf/2002.10211.pdf)]
 
 - **Learning to Self-Train for Semi-Supervised Few-Shot Classification**
   <br>
