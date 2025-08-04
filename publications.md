@@ -9,8 +9,7 @@ title: Publications
 </div></div>
 
 ## Journal Articles
-[J14] J. Wang*, B. Liang, M. Dong, G. Boudreau, and A. Afana, “Age-of-information minimization with weight limits for semi-asynchronous online distributed optimization,” IEEE Transactions on Networking (TON), early access, Jul. 2025.
-**Age-of-information minimization with weight limits for semi-asynchronous online distributed optimization**
+[J14] **Age-of-information minimization with weight limits for semi-asynchronous online distributed optimization**
 <br>
 **J. Wang\***, B. Liang, M. Dong, G. Boudreau, and A. Afana
 <br>
