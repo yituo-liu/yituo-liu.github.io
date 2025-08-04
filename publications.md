@@ -15,7 +15,7 @@ title: Publications
 <br>
 IEEE Transactions on Networkingn. **TON**.
 <br>
-[[PDF]([https://arxiv.org/pdf/2002.10211.pdf](https://ieeexplore.ieee.org/document/11072844))]
+[[PDF](https://arxiv.org/pdf/2002.10211.pdf)]
 
 - **Learning to Self-Train for Semi-Supervised Few-Shot Classification**
   <br>
