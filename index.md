@@ -10,5 +10,5 @@ I received my Ph.D. degree in Electrical and Computer Engineering from the [Univ
 My research interests are in <i>networked systems</i> and <i>mobile communications</i>, especially <span style="color:#EF4848">network artificial intelligence</span>, online learning, distributed computing, stochastic optimization, and their applications to integrated computation and communication systems.
 
 ## News
-<strong><i>Prospective Students:</i></strong> I am always looking for Ph.D. students (<span style="color:#EF4848">multiple openings for 2026</span>), Research Assistants, Post-docs, and Visitors to work with me (see <span style="color:#EF4848">this document</span> for more details). If you find there are some common research interests between us, please feel free to drop me an email with your CV and any other supporting materials.
+<strong><i>Prospective Students:</i></strong> I am always looking for Ph.D. students (<span style="color:#EF4848">multiple openings for 2026</span>), Research Assistants, Post-docs, and Visitors to work with me (see [<span style="color:#EF4848"><u>this document</u></span>](https://www.juncheng-wang.com/_files/ugd/0e2dc7_137b83f6af2149b2918375fcf71197b7.pdf) for more details). If you find there are some common research interests between us, please feel free to drop me an email with your CV and any other supporting materials.
 
