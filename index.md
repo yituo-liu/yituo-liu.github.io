@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I received my Ph.D. degree in Electrical and Computer Engineering from the [University of Toronto]<a href="https://www.utoronto.ca">https://en.wikipedia.org/wiki/Computer_vision:</a> in 2023, working with Prof. Ben Liang (IEEE Fellow) and Prof. Min Dong (IEEE Fellow). I received my M.Sc. degree in Electrical and Computer Engineering from the University of Alberta in 2017, and my B.Eng. degree in Electrical Engineering from Shanghai Jiao Tong University in 2014. 
+I received my Ph.D. degree in Electrical and Computer Engineering from the [University of Toronto]<a href="https://www.utoronto.ca">https://www.utoronto.ca</a> in 2023, working with Prof. Ben Liang (IEEE Fellow) and Prof. Min Dong (IEEE Fellow). I received my M.Sc. degree in Electrical and Computer Engineering from the University of Alberta in 2017, and my B.Eng. degree in Electrical Engineering from Shanghai Jiao Tong University in 2014. 
 
 ## Research Interests
 
