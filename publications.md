@@ -25,6 +25,12 @@ title: Publications
 
 8. **J. Wang**, M. Dong, B. Liang, G. Boudreau, and H. Abou-Zeid, “Delay-tolerant OCO with long-term constraints: Algorithm and its application to network resource allocation,” IEEE/ACM Transactions on Networking (***TON***), vol. 31, pp. 147-163, Feb. 2023 [[Paper](/assets/publication/ToN_DTC-OCO.pdf)]
 
+9. **J. Wang**, B. Liang, M. Dong, and G. Boudreau, “Online multi-cell coordinated MIMO wireless network virtualization with imperfect CSI,” IEEE Transactions on Wireless Communications (***TWC***), vol. 21, pp. 10455-10471, Dec. 2022. [[Paper](/assets/publication/ToWC_OnlineMultiCellWNV.pdf)]
+
+10. **J. Wang**, B. Liang, M. Dong, G. Boudreau, and H. Abou-Zeid, “Online distributed coordinated precoding for virtualized MIMO networks with delayed CSI,” IEEE Wireless Communications Letter (***WCL***), vol. 11, pp. 1012-1016, May 2022. [[Paper](/assets/publication/WCL_OnlineDistPrecodeVirtualization.pdf)]
+
+11. **J. Wang**, M. Dong, B. Liang, G. Boudreau, and H. Abou-Zeid, “Distributed coordinated precoding for MIMO cellular network virtualization,” IEEE Transactions on Wireless Communications (***TWC***), vol. 21, pp. 106-120, Jan. 2022. [[Paper](/assets/publication/ToWC_Distributed_WNV.pdf)]
+
 
 ## Conference Articles
 
