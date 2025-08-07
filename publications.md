@@ -62,7 +62,17 @@ title: Publications
 
 12. **J. Wang**, M. Dong, B. Liang, G. Boudreau, and H. Abou-Zeid, “Online model updating with analog aggregation in wireless edge learning,” in Proceedings of IEEE International Conference on Computer Communications (***INFOCOM***), New York City, NY, USA, May 2022. [[Paper](/assets/publication/Conference/INFOCOM22_OMUAA.pdf)]
 
-13. **J. Wang**, B. Liang, M. Dong, G. Boudreau, and H. Abou-Zeid, “Semi-online precoding with information parsing for cooperative MIMO wireless networks,” in Proceedings of IEEE International Conference on Computer Communications (***INFOCOM***), online conference, May 2022.
+13. **J. Wang**, B. Liang, M. Dong, G. Boudreau, and H. Abou-Zeid, “Semi-online precoding with information parsing for cooperative MIMO wireless networks,” in Proceedings of IEEE International Conference on Computer Communications (***INFOCOM***), online conference, May 2022. [[Paper](/assets/publication/Conference/INFOCOM22_SOPIP.pdf)]
+
+14. **J. Wang**, B. Liang, M. Dong, G. Boudreau, and H. Abou-Zeid, “Delay-tolerant constrained OCO with application to network resource allocation,” in Proceedings of IEEE International Conference on Computer Communications (***INFOCOM***), online conference, May 2021. [[Paper](/assets/publication/Conference/INFOCOM21_WLDBA.pdf)]
+
+15. **J. Wang**, M. Dong, B. Liang, and G. Boudreau, “Online precoding design for downlink MIMO wireless network virtualization with imperfect CSI,” in Proceedings of IEEE International Conference on Computer Communications (***INFOCOM***), online conference, Jul. 2020. [[Paper](/assets/publication/Conference/INFOCOM20.pdf)]
+
+16. **J. Wang**, B. Liang, M. Dong, and G. Boudreau, “Online MIMO wireless network virtualization over time-varying channels with periodic updates,” in Proceedings of IEEE International Workshop on Signal Processing Advances in Wireless Communications (***SPAWC***), online conference, May 2020. [[Paper](/assets/publication/Conference/SPAWC2020.pdf)]
+
+17. J. Wang, M. Dong, B. Liang, and G. Boudreau, “Online downlink MIMO wireless network virtualization in fading environments,” in Proceedings of IEEE Global Communications Conference (GLOBECOM), Waikoloa, Hawaii, USA, Dec. 2019. [[Paper](/assets/publication/Conference/Globecom20.pdf)]
+
+18. J. Wang, **J. Wang**, and W. Chen, “Localization and navigation of intelligent wheelchair in dynamic environment,” in Proceeding of Chinese Intelligent Automation Conference, Yangzhou, Jiangsu, China, Jul. 2013. [[Paper](https://link.springer.com/chapter/10.1007/978-3-642-38460-8_7)]
 
 
 ## Patents
