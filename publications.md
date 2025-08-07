@@ -31,6 +31,11 @@ title: Publications
 
 11. **J. Wang**, M. Dong, B. Liang, G. Boudreau, and H. Abou-Zeid, “Distributed coordinated precoding for MIMO cellular network virtualization,” IEEE Transactions on Wireless Communications (***TWC***), vol. 21, pp. 106-120, Jan. 2022. [[Paper](/assets/publication/ToWC_Distributed_WNV.pdf)]
 
+12. K.-L. Chen, Y. Guo, **J. Wang**, X. Yang, “Contactless islanding detection method using electric field sensors,” IEEE Transactions on Instrumentation and Measurement (***TIM***), vol. 70, pp. 1-13, Jan. 2021. [[Paper](/assets/publication/TIM2021.pdf)]
+
+13. **J. Wang**, G. Geng, K.-L. Chen, H. Liang, and W. Xu, “Event-based non-intrusive home current measurement using sensor array,” IEEE Transactions on Smart Grid (***TSG***), vol. 9, pp. 5878-5886, Nov. 2018. [[Paper](/assets/publication/TSG2018.pdf)]
+
+14. G. Geng, **J. Wang**, K.-L. Chen, and W. Xu, “Contactless current measurement for enclosed multiconductor systems based on sensor array,” IEEE Transactions on Instrumentation and Measurement (***TIM***), vol. 66, pp. 2627-2637, Oct. 2017. [[Paper](/assets/publication/TIM2017.pdf)]
 
 ## Conference Articles
 
