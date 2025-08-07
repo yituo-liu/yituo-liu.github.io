@@ -129,7 +129,8 @@ h1, h2, h3 {
 h1 {
 	font-size: 165%;
 	padding-top: 1.2em;
-	border-bottom: 1px solid #aaaaaa \n #aaaaaa;
+/* 	border-bottom: 1px solid #aaaaaa \n #aaaaaa; */
+	border-bottom: 2px double #aaaaaa;
 }
 
 h2 {
