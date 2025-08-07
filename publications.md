@@ -41,5 +41,31 @@ title: Publications
 1. **J. Wang\***, Y. Liu, B. Liang, and M. Dong, “Constrained over-the-air model updating for wireless online federated learning with delayed information,” in Proceedings of IEEE International Conference on Computer Communications (***INFOCOM***), London, United Kingdom, May 2025. [[Paper](/assets/publication/Conference/INFOCOM25_WLLD.pdf)]
 
 2. Z. Li, L. He, **J. Wang**, Z. Jia, Y. Wang, and C. Yuen, “Online joint power allocation and task scheduling for LEO satellite networks,” in Proceedings of IEEE Wireless Communications and Networking Conference (***WCNC***), Milan, Italy, Mar. 2025. [[Paper](/assets/publication/Conference/WCNC2025Li.pdf)]
+ 
+3. **J. Wang\***, B. Yan, and Y. Liu, “Doubly-bounded queue for constrained online learning: Keeping pace with dynamics of both loss and constraint,” in Proceedings of AAAI Conference on Artificial Intelligence (***AAAI***), Philadelphia, Pennsylvania, USA, Feb. 2025. [[Paper](/assets/publication/Conference/AAAI2025.pdf)]
+
+4. W. Xu, **J. Wang**, B. Liang, G. Boudreau, and H. Sokun, “Distributed minimax optimization over hierarchical networks," in Proceedings of International Conference on Parallel Processing (***ICPP***), Gotland, Sweden, Aug. 2024. [[Paper](/assets/publication/Conference/ICPP2024Xu.pdf)]
+
+5. L. He, Z. Jia, **J. Wang**, F. Wang, E. Lansard, and C. Yuen, “Energy-efficient data offloading for earth observation satellite networks,” in Proceedings of IEEE Vehicular Technology Conference (***VTC***), Singapore, Jun. 2024. [[Paper](/assets/publication/Conference/VTC2024He.pdf)]
+
+6. Q. Song, W. Lin, **J. Wang**, and H. Xu, “Towards robust learning to optimize with theoretical guarantees,” in Proceedings of IEEE Conference on Computer Vision and Pattern Recognition (***CVPR***), Seattle WA, USA, Jun. 2024. [[Paper](/assets/publication/Conference/CVPR2024Song.pdf)]
+
+7. J. Geng, Y. Hou, X. Tao, **J. Wang**, and B. Luo, “Adaptive federated learning in heterogeneous wireless networks with independent sampling,” in Proceedings of IEEE International Conference on Communications (***ICC***), Denver, CO, USA, Jun. 2024. [[Paper](/assets/publication/Conference/ICC2024Geng.pdf)]
+
+8. Q. Song, **J. Wang**, J. Li, G. Liu, and H. Xu, “A learning-only method for multi-cell multi-user MIMO sum rate maximization,” in Proceedings of IEEE International Conference on Computer Communications (***INFOCOM***), Vancouver, Canada, May 2024. [[Paper](/assets/publication/Conference/INFOCOM2024Song.pdf)]
+
+9. X. Zhao, X. Wang, **J. Wang**, and Q. Shi, “A stochastic proximal WMMSE for ergodic sum rate maximization,” in Proceedings of IEEE International Conference on Acoustic, Speech and Signal Processing (***ICASSP***), Seoul, Korea, Apr. 2024. [[Paper](/assets/publication/Conference/ICASSP2024Zhao.pdf)]
+
+10. X. Wang, X. Zhao, **J. Wang**, and Q. Shi, “WMMSE beamforming for user-centric cell-free networks with non-coherent joint transmission,” in Proceedings of IEEE Global Communications Conference (***GLOBECOM***), Kuala Lumpur, Malaysia, Dec. 2023. [[Paper](/assets/publication/Conference/Globecom2023Wang.pdf)]
+
+11. **J. Wang**, B. Liang, M. Dong, G. Boudreau, and A. Afana, “Online distributed optimization with efficient communication via temporal similarity,” in Proceedings of IEEE International Conference on Computer Communications (***INFOCOM***), May 2023. [[Paper](/assets/publication/Conference/INFOCOM23_ODOTS.pdf)]
+
+12. **J. Wang**, M. Dong, B. Liang, G. Boudreau, and H. Abou-Zeid, “Online model updating with analog aggregation in wireless edge learning,” in Proceedings of IEEE International Conference on Computer Communications (***INFOCOM***), New York City, NY, USA, May 2022. [[Paper](/assets/publication/Conference/INFOCOM22_OMUAA.pdf)]
+
+13. **J. Wang**, B. Liang, M. Dong, G. Boudreau, and H. Abou-Zeid, “Semi-online precoding with information parsing for cooperative MIMO wireless networks,” in Proceedings of IEEE International Conference on Computer Communications (***INFOCOM***), online conference, May 2022.
+
 
 ## Patents
+
+
+
