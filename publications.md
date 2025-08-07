@@ -76,6 +76,25 @@ title: Publications
 
 
 ## Patents
+1. H. Abou-Zeid, G. Boudreau, M. Dong, B. Liang, and J. Wang, “Online optimization for joint computation and communication in edge learning,” US Patent Application PCT/IB2022/057077, Oct. 2024. [[Link](https://patents.google.com/patent/US20240346327A1/en)]
+
+2. G. Boudreau, M. Dong, B. Liang, and J. Wang, “Online MIMO wireless network virtualization with unknown channel information,” US Patent US12003286 granted, Jun. 2024. [[Link](https://patents.google.com/patent/US20220103210A1/en)]
+
+3. G. Boudreau, M. Dong, B. Liang, and J. Wang, “Online convex optimization with periodic updates for downlink multi-cell MIMO wireless network virtualization,” US Patent US11979206B2 granted, May 2024. [[Link](https://patents.google.com/patent/US20230058926A1/en)]
+
+4. G. Boudreau, M. Dong, B. Liang, and J. Wang, “Online multi-cell coordinated MIMO wireless network virtualization with imperfect CSI,” US Patent Application PCT/IB2022/053974, Oct. 2023.​ [[Link](https://patents.google.com/patent/WO2022229908A1/en)]
+
+5. A. Afana, G. Boudreau, M. Dong, B. Liang, and J. Wang, “Constrained age of information scheduling for semi-asynchronous online distributed optimization,” US Provisional Filing P109004, Jul. 2023.
+
+6. A. Afana, G. Boudreau, M. Dong, B. Liang, and J. Wang, “Online distributed optimization with efficient communication via temporal similarity,” International Patent Application PCT/IB2023/057601, Jul. 2023.
+
+7. H. Abou-Zeid, G. Boudreau, M. Dong, B. Liang, and J. Wang, “Delay-tolerant constrained online convex optimization,” US Patent Application PCT/IB2021/057106, Jan. 2023. [[Link](https://patents.google.com/patent/US20230284154A1/en)]
+
+8. H. Abou-Zeid, G. Boudreau, M. Dong, B. Liang, and J. Wang, “Distributed coordinated downlink precoding for multi-cell MIMO wireless network virtualization,” US Patent Application PCT/IB2021/054717, Nov. 2022. [[Link](https://patents.google.com/patent/WO2021240475A1/en)]
+
+9. H. Abou-Zeid, G. Boudreau, M. Dong, B. Liang, and J. Wang, “Hierarchical online convex optimization,” US Patent Application PCT/IB2022/050212, Jan. 2022. [[Link](https://patents.google.com/patent/US20240119355A1/en)]
+
+​
 
 
 
