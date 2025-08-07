@@ -130,7 +130,7 @@ h1 {
 	font-size: 165%;
 	padding-top: 1.2em;
 /* 	border-bottom: 1px solid #aaaaaa \n #aaaaaa; */
-	border-bottom: 2px double #aaaaaa;
+	border-bottom: 4px double #aaaaaa;
 }
 
 h2 {
