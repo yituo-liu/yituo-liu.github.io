@@ -44,6 +44,8 @@ Suppose you want to add an **News** page:
 3. Commit your changes.
    You should now see the **News** item in the navigation bar.
 
+---
+
 ## File and Folder Overview
 
 ### `_includes/navbar.html`
@@ -61,7 +63,6 @@ Suppose you want to add an **News** page:
   - `ABC` must match the name of your `.md` file (without extension).  
   - `XXX` is the text displayed on the navigation bar.  
 
----
 
 ### `_layouts/homepage.html`
 - Controls the **homepage layout**, including profile photo and personal information (on the right of the photo).  
