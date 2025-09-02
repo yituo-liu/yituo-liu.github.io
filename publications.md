@@ -3,7 +3,7 @@ layout: normal
 title: Publications
 ---
 
-<u>My Ph.D. students/RA at HKBU</u>, Co-first author\*, Corresponding author $^\dagger$
+<u>My Ph.D. students/RA at HKBU</u>, Co-first author \*, Corresponding author $^\dagger$
 
 ## Journal Articles
 1. **J. Wang\***, B. Liang, M. Dong, G. Boudreau, and A. Afana, "Age-of-information minimization with weight limits for semi-asynchronous online distributed optimization," IEEE Transactions on Networking. (***TON***), early access, Jul. 2025. [[Paper](/assets/publication/Journal/ToN_AIMWeL.pdf)]
