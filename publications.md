@@ -35,11 +35,11 @@ title: Publications
 14. G. Geng, **J. Wang**, K.-L. Chen, and W. Xu, “Contactless current measurement for enclosed multiconductor systems based on sensor array,” *IEEE Transactions on Instrumentation and Measurement (**TIM**)*, vol. 66, pp. 2627-2637, Oct. 2017. [[Paper](/assets/publication/Journal/TIM2017.pdf)]
 
 ## Conference Articles
-1. **J. Wang\**, Y. Liu, B. Liang, and M. Dong, “Constrained over-the-air model updating for wireless online federated learning with delayed information,” in *Proceedings of IEEE International Conference on Computer Communications (**INFOCOM**)*, London, United Kingdom, May 2025. [[Paper](/assets/publication/Conference/INFOCOM25_WLLD.pdf)]
+1. **J. Wang\**, <u>Y. Liu</u>, B. Liang, and M. Dong, “Constrained over-the-air model updating for wireless online federated learning with delayed information,” in *Proceedings of IEEE International Conference on Computer Communications (**INFOCOM**)*, London, United Kingdom, May 2025. [[Paper](/assets/publication/Conference/INFOCOM25_WLLD.pdf)]
 
 2. Z. Li, L. He, **J. Wang**, Z. Jia, Y. Wang, and C. Yuen, “Online joint power allocation and task scheduling for LEO satellite networks,” in *Proceedings of IEEE Wireless Communications and Networking Conference (**WCNC**)*, Milan, Italy, Mar. 2025. [[Paper](/assets/publication/Conference/WCNC2025Li.pdf)]
  
-3. **J. Wang\**, B. Yan, and Y. Liu, “Doubly-bounded queue for constrained online learning: Keeping pace with dynamics of both loss and constraint,” in *Proceedings of AAAI Conference on Artificial Intelligence (**AAAI**)*, Philadelphia, Pennsylvania, USA, Feb. 2025. [[Paper](/assets/publication/Conference/AAAI2025.pdf)]
+3. **J. Wang\**, <u>B. Yan</u>, and <u>Y. Liu</u>, “Doubly-bounded queue for constrained online learning: Keeping pace with dynamics of both loss and constraint,” in *Proceedings of AAAI Conference on Artificial Intelligence (**AAAI**)*, Philadelphia, Pennsylvania, USA, Feb. 2025. [[Paper](/assets/publication/Conference/AAAI2025.pdf)]
 
 4. W. Xu, **J. Wang**, B. Liang, G. Boudreau, and H. Sokun, “Distributed minimax optimization over hierarchical networks," in *Proceedings of International Conference on Parallel Processing (**ICPP**)*, Gotland, Sweden, Aug. 2024. [[Paper](/assets/publication/Conference/ICPP2024Xu.pdf)]
 
@@ -67,7 +67,7 @@ title: Publications
 
 16. **J. Wang**, B. Liang, M. Dong, and G. Boudreau, “Online MIMO wireless network virtualization over time-varying channels with periodic updates,” in *Proceedings of IEEE International Workshop on Signal Processing Advances in Wireless Communications (**SPAWC**)*, online conference, May 2020. [[Paper](/assets/publication/Conference/SPAWC2020.pdf)]
 
-17. J. Wang, M. Dong, B. Liang, and G. Boudreau, “Online downlink MIMO wireless network virtualization in fading environments,” in *Proceedings of IEEE Global Communications Conference (**GLOBECOM**)*, Waikoloa, Hawaii, USA, Dec. 2019. [[Paper](/assets/publication/Conference/Globecom20.pdf)]
+17. **J. Wang**, M. Dong, B. Liang, and G. Boudreau, “Online downlink MIMO wireless network virtualization in fading environments,” in *Proceedings of IEEE Global Communications Conference (**GLOBECOM**)*, Waikoloa, Hawaii, USA, Dec. 2019. [[Paper](/assets/publication/Conference/Globecom20.pdf)]
 
 18. J. Wang, **J. Wang**, and W. Chen, “Localization and navigation of intelligent wheelchair in dynamic environment,” in *Proceeding of Chinese Intelligent Automation Conference*, Yangzhou, Jiangsu, China, Jul. 2013. [[Paper](https://link.springer.com/chapter/10.1007/978-3-642-38460-8_7)]
 
