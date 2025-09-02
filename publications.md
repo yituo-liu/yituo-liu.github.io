@@ -35,11 +35,11 @@ title: Publications
 14. G. Geng, **J. Wang**, K.-L. Chen, and W. Xu, “Contactless current measurement for enclosed multiconductor systems based on sensor array,” *IEEE Transactions on Instrumentation and Measurement (**TIM**)*, vol. 66, pp. 2627-2637, Oct. 2017. [[Paper](/assets/publication/Journal/TIM2017.pdf)]
 
 ## Conference Articles
-1. **J. Wang\**, <u>Y. Liu</u>, B. Liang, and M. Dong, “Constrained over-the-air model updating for wireless online federated learning with delayed information,” in *Proceedings of IEEE International Conference on Computer Communications (**INFOCOM**)*, London, United Kingdom, May 2025. [[Paper](/assets/publication/Conference/INFOCOM25_WLLD.pdf)]
+1. **J. Wang**, <u>Y. Liu</u>, B. Liang, and M. Dong, “Constrained over-the-air model updating for wireless online federated learning with delayed information,” in *Proceedings of IEEE International Conference on Computer Communications (**INFOCOM**)*, London, United Kingdom, May 2025. [[Paper](/assets/publication/Conference/INFOCOM25_WLLD.pdf)]
 
 2. Z. Li, L. He, **J. Wang**, Z. Jia, Y. Wang, and C. Yuen, “Online joint power allocation and task scheduling for LEO satellite networks,” in *Proceedings of IEEE Wireless Communications and Networking Conference (**WCNC**)*, Milan, Italy, Mar. 2025. [[Paper](/assets/publication/Conference/WCNC2025Li.pdf)]
  
-3. **J. Wang\**, <u>B. Yan</u>, and <u>Y. Liu</u>, “Doubly-bounded queue for constrained online learning: Keeping pace with dynamics of both loss and constraint,” in *Proceedings of AAAI Conference on Artificial Intelligence (**AAAI**)*, Philadelphia, Pennsylvania, USA, Feb. 2025. [[Paper](/assets/publication/Conference/AAAI2025.pdf)]
+3. **J. Wang**, <u>B. Yan</u>, and <u>Y. Liu</u>, “Doubly-bounded queue for constrained online learning: Keeping pace with dynamics of both loss and constraint,” in *Proceedings of AAAI Conference on Artificial Intelligence (**AAAI**)*, Philadelphia, Pennsylvania, USA, Feb. 2025. [[Paper](/assets/publication/Conference/AAAI2025.pdf)]
 
 4. W. Xu, **J. Wang**, B. Liang, G. Boudreau, and H. Sokun, “Distributed minimax optimization over hierarchical networks," in *Proceedings of International Conference on Parallel Processing (**ICPP**)*, Gotland, Sweden, Aug. 2024. [[Paper](/assets/publication/Conference/ICPP2024Xu.pdf)]
 
