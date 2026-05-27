@@ -5,7 +5,9 @@ title: Publications
 
 
 ## Journal Articles
-\[J19\] J. Wang, J. Guo, **J. Wang**, X. Ding, D. Li, and W. Wu, “Learning to incentivize: Convergence-guaranteed federated learning via client quality discovery,” *IEEE Transactions on Mobile Computing (**TMC**)*, early access, Dec. 2025. [[Paper](/assets/publication/Journal/Learning_to_Incentivize_Convergence-Guaranteed_Federated_Learning_Via_Client_Quality_Discovery.pdf)]
+\[J20\] <u>Y. Liu</u><sup>*</sup>, <u>W. Qin</u><sup>*</sup>, W. Bao, J. Wang, J. Guo, and M. Zhou, “Learning to incentivize: Convergence-guaranteed federated learning via client quality discovery,” *IEEE Transactions on Networking (**TON**)*, early access, May. 2026. [[Paper](/assets/publication/Journal/Decentralized_Online_Learning_With_Hard_Constraints_A_Doubly-Bounded_Queue_Approach.pdf)]
+
+\[J19\] J. Wang, J. Guo, **J. Wang**, X. Ding, D. Li, and W. Wu, “Learning to incentivize: Convergence-guaranteed federated learning via client quality discovery,” *IEEE Transactions on Mobile Computing (**TMC**)*, vol. 25, no. 5, pp. 6767-6783, May 2026. [[Paper](/assets/publication/Journal/Learning_to_Incentivize_Convergence-Guaranteed_Federated_Learning_Via_Client_Quality_Discovery.pdf)]
 
 \[J18\] **J. Wang** †, B. Liang, M. Dong, G. Boudreau, and A. Afana, "Age-of-information minimization with weight limits for semi-asynchronous online distributed optimization," *IEEE Transactions on Networking (**TON**)*, vol. 33, no. 6, pp. 3162-3178, Dec. 2025. [[Paper](/assets/publication/Journal/ToN_AIMWeL.pdf)]
 
