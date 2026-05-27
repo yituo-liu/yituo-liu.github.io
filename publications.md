@@ -10,10 +10,10 @@ title: Publications
 
 **J. Wang** †, <u>Y. Liu</u>, M. Dong, and B. Liang, “Constrained over-the-air model updating with delayed information for online decentralized learning,” *IEEE Transactions on Networking (**TON**)*, submitted, Apr. 2026.
 
-L. He, Z. Li, Z. Jia, **J. Wang** †, S. Li, and Z. Han, “Online routing for low earth orbit satellite-based IoT networks: Balancing energy efficiency and latency,” *IEEE Transactions on Mobile Computing (**TMC**)*, submitted, Apr. 2026.
+L. He, Z. Li, Z. Jia, **J. Wang**, S. Li, and Z. Han, “Online routing for low earth orbit satellite-based IoT networks: Balancing energy efficiency and latency,” *IEEE Transactions on Mobile Computing (**TMC**)*, submitted, Apr. 2026.
 
 ## Journal Articles
-\[J20\] <u>Y. Liu</u>\*, <u>W. Qin</u>\*, W. Bao, J. Wang, J. Guo, and M. Zhou, “Learning to incentivize: Convergence-guaranteed federated learning via client quality discovery,” *IEEE Transactions on Networking (**TON**)*, early access, May. 2026. [[Paper](/assets/publication/Journal/Decentralized_Online_Learning_With_Hard_Constraints_A_Doubly-Bounded_Queue_Approach.pdf)]
+\[J20\] <u>Y. Liu</u>\*, <u>W. Qin</u>\*, W. Bao, **J. Wang** †, J. Guo, and M. Zhou, “Learning to incentivize: Convergence-guaranteed federated learning via client quality discovery,” *IEEE Transactions on Networking (**TON**)*, early access, May. 2026. [[Paper](/assets/publication/Journal/Decentralized_Online_Learning_With_Hard_Constraints_A_Doubly-Bounded_Queue_Approach.pdf)]
 
 \[J19\] J. Wang, J. Guo, **J. Wang**, X. Ding, D. Li, and W. Wu, “Learning to incentivize: Convergence-guaranteed federated learning via client quality discovery,” *IEEE Transactions on Mobile Computing (**TMC**)*, vol. 25, no. 5, pp. 6767-6783, May 2026. [[Paper](/assets/publication/Journal/Learning_to_Incentivize_Convergence-Guaranteed_Federated_Learning_Via_Client_Quality_Discovery.pdf)]
 
