@@ -3,6 +3,14 @@ layout: normal
 title: Publications
 ---
 
+<u>My own students</u>, equal contribution\*, corresponding author †
+
+## Submitted
+<u>W. Qin</u>, **J. Wang** †, W. Bao, and M. Zhou, “Double-Q: Achieving best-of-two-worlds performance of constrained online convex optimization,” *IEEE Transactions on Networking (**TON**)*, submitted, May 2026.
+
+**J. Wang** †, <u>Y. Liu</u>, M. Dong, and B. Liang, “Constrained over-the-air model updating with delayed information for online decentralized learning,” *IEEE Transactions on Networking (**TON**)*, submitted, Apr. 2026.
+
+L. He, Z. Li, Z. Jia, **J. Wang** †, S. Li, and Z. Han, “Online routing for low earth orbit satellite-based IoT networks: Balancing energy efficiency and latency,” *IEEE Transactions on Mobile Computing (**TMC**)*, submitted, Apr. 2026.
 
 ## Journal Articles
 \[J20\] <u>Y. Liu</u>\*, <u>W. Qin</u>\*, W. Bao, J. Wang, J. Guo, and M. Zhou, “Learning to incentivize: Convergence-guaranteed federated learning via client quality discovery,” *IEEE Transactions on Networking (**TON**)*, early access, May. 2026. [[Paper](/assets/publication/Journal/Decentralized_Online_Learning_With_Hard_Constraints_A_Doubly-Bounded_Queue_Approach.pdf)]
@@ -86,7 +94,9 @@ title: Publications
 
 
 ## Patents
-\[P6\] H. Abou-Zeid, G. Boudreau, M. Dong, B. Liang, and J. Wang, “Distributed coordinated downlink precoding for multi-cell MIMO wireless network virtualization,” US Patent US12531597, **granted**, 2026. [[Link](https://patents.google.com/patent/WO2021240475A1/en)]
+\[P7\] H. Abou-Zeid, G. Boudreau, M. Dong, B. Liang, and J. Wang, “Distributed coordinated downlink precoding for multi-cell MIMO wireless network virtualization,” US Patent US12531597, **granted**, 2026. [[Link](https://patents.google.com/patent/WO2021240475A1/en)]
+
+\[P6\] H. Abou-Zeid, G. Boudreau, M. Dong, B. Liang, and J. Wang, “Online multi-cell coordinated MIMO wireless network virtualization with imperfect CSI,” US Patent US12556242. **granted**, 2026. [[Link](https://patents.google.com/patent/US12556242B2/en)]
 
 \[P5\] H. Abou-Zeid, G. Boudreau, M. Dong, B. Liang, and J. Wang, “Delay-tolerant constrained online convex optimization,” US Patent US12490203, **granted**, 2025. [[Link](https://patents.google.com/patent/US20230284154A1/en)]
 
