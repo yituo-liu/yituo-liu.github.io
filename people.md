@@ -3,9 +3,28 @@ layout: normal
 title: People
 ---
 
-Welcome! We are located in the [Department of Computer Science](https://www.comp.hkbu.edu.hk/v1/?page=home) at [Hong Kong Baptist University](https://www.hkbu.edu.hk/en.html). We are part of the Distributed System and Networking (DSAN) group. We conduct research into computation and communication networks. Our recent research topics include network artificial intelligence, wireless federated learning, constrained online optimization, learning to optimize, and wireless network virtualization.
-
 ## Ph.D. Students
-Weiyi Qin (2025 Fall), Master: University of Science and Technology of China, Bachelor: Anhui University​​
 
-Houxin Gong (2026 Fall), Master: Zhejiang University, Bachelor: Tongji University
+Mr. Houxin Gong (2026)  
+- Master: Zhejiang University; Bachelor: Tongji University
+
+Mr. Weiyi Qin (2025)  
+- TON 2026, INFOCOM 2026, TON (submitted)
+- Master: University of Science and Technology of China; Bachelor: Anhui University
+
+## MPhil Student
+
+Mr. Yituo Liu (2024)  
+- AAAI 2025, INFOCOM 2025, TON 2026, TON (submitted)
+- Master: Nanyang Technological University; Bachelor: Xiamen University Malaysia
+
+## Research Assistants
+
+Ms. Lulu Zhu (2025)  
+- Master: The University of Sydney; Bachelor: Tianjin University
+- An incoming Ph.D. student at The University of Sydney
+
+Mr. Bingjie Yan (2024)
+- AAAI 2025
+- Master: Chinese Academy of Sciences; Bachelor: Hainan University
+- Now a Ph.D. student at The Hong Kong Polytechnic University
