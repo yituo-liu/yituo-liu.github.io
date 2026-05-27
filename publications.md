@@ -5,7 +5,7 @@ title: Publications
 
 
 ## Journal Articles
-\[J20\] <u>Y. Liu</u><sup>*</sup>, <u>W. Qin</u><sup>*</sup>, W. Bao, J. Wang, J. Guo, and M. Zhou, “Learning to incentivize: Convergence-guaranteed federated learning via client quality discovery,” *IEEE Transactions on Networking (**TON**)*, early access, May. 2026. [[Paper](/assets/publication/Journal/Decentralized_Online_Learning_With_Hard_Constraints_A_Doubly-Bounded_Queue_Approach.pdf)]
+\[J20\] <u>Y. Liu</u>*, <u>W. Qin</u>*, W. Bao, J. Wang, J. Guo, and M. Zhou, “Learning to incentivize: Convergence-guaranteed federated learning via client quality discovery,” *IEEE Transactions on Networking (**TON**)*, early access, May. 2026. [[Paper](/assets/publication/Journal/Decentralized_Online_Learning_With_Hard_Constraints_A_Doubly-Bounded_Queue_Approach.pdf)]
 
 \[J19\] J. Wang, J. Guo, **J. Wang**, X. Ding, D. Li, and W. Wu, “Learning to incentivize: Convergence-guaranteed federated learning via client quality discovery,” *IEEE Transactions on Mobile Computing (**TMC**)*, vol. 25, no. 5, pp. 6767-6783, May 2026. [[Paper](/assets/publication/Journal/Learning_to_Incentivize_Convergence-Guaranteed_Federated_Learning_Via_Client_Quality_Discovery.pdf)]
 
@@ -46,13 +46,13 @@ title: Publications
 \[J1\] G. Geng, **J. Wang**, K.-L. Chen, and W. Xu, “Contactless current measurement for enclosed multiconductor systems based on sensor array,” *IEEE Transactions on Instrumentation and Measurement (**TIM**)*, vol. 66, pp. 2627-2637, Oct. 2017. [[Paper](/assets/publication/Journal/TIM2017.pdf)]
 
 ## Conference Articles
-\[C19\] W. Qin, W. Bao, **J. Wang**, and M. Zhou, “Double queue for constrained online convex optimization: Bridging the best-of-two-worlds constraint violation,” in *Proceedings of IEEE International Conference on Computer Communications (**INFOCOM**)*, Tokyo, Japan, May 2026. \[Paper\]
+\[C19\] <u>W. Qin</u>, W. Bao, **J. Wang** †, and M. Zhou, “Double queue for constrained online convex optimization: Bridging the best-of-two-worlds constraint violation,” in *Proceedings of IEEE International Conference on Computer Communications (**INFOCOM**)*, Tokyo, Japan, May 2026. \[Paper\]
 
-\[C18\] **J. Wang**, Y. Liu, B. Liang, and M. Dong, “Constrained over-the-air model updating for wireless online federated learning with delayed information,” in *Proceedings of IEEE International Conference on Computer Communications (**INFOCOM**)*, London, United Kingdom, May 2025. [[Paper](/assets/publication/Conference/INFOCOM25_WLLD.pdf)]
+\[C18\] **J. Wang** †, <u>Y. Liu</u>, B. Liang, and M. Dong, “Constrained over-the-air model updating for wireless online federated learning with delayed information,” in *Proceedings of IEEE International Conference on Computer Communications (**INFOCOM**)*, London, United Kingdom, May 2025. [[Paper](/assets/publication/Conference/INFOCOM25_WLLD.pdf)]
 
 \[C17\] Z. Li, L. He, **J. Wang**, Z. Jia, Y. Wang, and C. Yuen, “Online joint power allocation and task scheduling for LEO satellite networks,” in *Proceedings of IEEE Wireless Communications and Networking Conference (**WCNC**)*, Milan, Italy, Mar. 2025. [[Paper](/assets/publication/Conference/WCNC2025Li.pdf)]
  
-\[C16\] **J. Wang**, B. Yan, and Y. Liu, “Doubly-bounded queue for constrained online learning: Keeping pace with dynamics of both loss and constraint,” in *Proceedings of AAAI Conference on Artificial Intelligence (**AAAI**)*, Philadelphia, Pennsylvania, USA, Feb. 2025. [[Paper](/assets/publication/Conference/AAAI2025.pdf)]
+\[C16\] **J. Wang** †, <u>B. Yan</u>, and <u>Y. Liu</u>, “Doubly-bounded queue for constrained online learning: Keeping pace with dynamics of both loss and constraint,” in *Proceedings of AAAI Conference on Artificial Intelligence (**AAAI**)*, Philadelphia, Pennsylvania, USA, Feb. 2025. [[Paper](/assets/publication/Conference/AAAI2025.pdf)]
 
 \[C15\] W. Xu, **J. Wang**, B. Liang, G. Boudreau, and H. Sokun, “Distributed minimax optimization over hierarchical networks," in *Proceedings of International Conference on Parallel Processing (**ICPP**)*, Gotland, Sweden, Aug. 2024. [[Paper](/assets/publication/Conference/ICPP2024Xu.pdf)]
 
